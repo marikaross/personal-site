@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/marikaross/personal-site/issues"
   },
-  "homepage": "https://github.com/marikaross/personal-site#readme"
+  "homepage": "https://github.com/marikaross/personal-site#readme",
+  "dependencies": {
+    "vue": "^2.5.17"
+  }
 }
